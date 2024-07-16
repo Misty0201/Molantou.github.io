@@ -8,6 +8,7 @@
     "onePageListNum":10,
     "singlePage":["about"],
     "exlink":{"music":"https://music.163.com/#/song?id=1848195704"},
+    "iconList":{"music":"<%= render(Primer::Beta::Octicon.new(:"accessibility-inset", size: :small)) %>"},
     "i18n":"CN",
     "UTC":8,
     "themeMode":"manual",
